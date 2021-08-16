@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and math 
 - 🌱 I’m currently learning Python and C# and polishing my C++ and Java
 - 💞️ I’m looking to collaborate on any interesting projects related to software development in the future
-- 📫 How to reach me:Ping me on LinkedIn!
+- 📫 How to reach me: www.linkedin.com/in/aayushi-sah-b87001214
 
 <!---
 aayushisah/aayushisah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
